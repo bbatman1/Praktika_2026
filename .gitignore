@@ -1,0 +1,10 @@
+*.pt
+*.weights
+*.jpg
+*.png
+*.jpeg
+__pycache__/
+.ipynb_checkpoints/
+*.ipynb
+results/
+runs/
